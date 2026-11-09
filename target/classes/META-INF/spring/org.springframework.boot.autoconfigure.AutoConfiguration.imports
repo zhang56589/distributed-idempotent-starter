@@ -1,0 +1,2 @@
+com.example.idempotent.config.IdempotentAutoConfiguration
+com.example.idempotent.config.GlobalIdempotentExceptionHandlerAutoConfiguration
